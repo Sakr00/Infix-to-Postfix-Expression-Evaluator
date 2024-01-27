@@ -21,7 +21,9 @@ This C program converts an infix mathematical expression to its equivalent postf
    cd infix-to-postfix-evaluator
 
 ##Usage
+
 1.Run the program `./Source.cpp`
+
 2.Put an Infix Expressiion
 
 ##Example
